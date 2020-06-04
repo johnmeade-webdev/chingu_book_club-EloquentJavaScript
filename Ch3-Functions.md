@@ -1,6 +1,6 @@
 # Chapter Three - Functions
 
-Try your hand at the challenges outlined in chapter two of the book. Then, feel free to add your solution following the style below!
+Try your hand at the challenges outlined in chapter three of the book. Then, feel free to add your solution following the style below!
 
 ## Minimum
 
